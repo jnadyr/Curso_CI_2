@@ -1,1 +1,1 @@
-GitHub Actions as a CI/CD tool. CI - automated testing and pipeline in GitHub Actions.
+Continuous Integration: Pipelines and automated tests with GitHub Actions.
